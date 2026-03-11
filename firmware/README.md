@@ -48,15 +48,7 @@ python3 extract_keys.py ../firmware/241019_701_enduro_Euro3_2016.hex
 
 ## 📝 Dump Information
 
-**Extraction Method:** [Specify your method]
-- Bench read with programmer
-- Via OBD port
-- Flash chip read
-- etc.
-
+**Extraction Method:**
+Kess V3
 **Date:** October 19, 2024 (from filename)
-
-**Verification:**
-- MD5: [To be calculated]
-- SHA256: [To be calculated]
 
