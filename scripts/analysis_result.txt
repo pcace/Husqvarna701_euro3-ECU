@@ -1,0 +1,169 @@
+Analysiere Firmware: 241019_701_enduro_Euro3_2016.hex
+
+Firmware-Größe: 1310720 Bytes (0x140000)
+
+=== Suche nach bekannten Keys ===
+  ✓ 0x5106 (BMW G450X Level 1) gefunden bei Offset 0x443A5 (Little Endian)
+    Kontext: 73 89 01 a1 b9 00 09 61 f2 d7 6f 62 71 32 13 8b 06 51 f1 d7 6d 62 71 32 13 8b 01 a0 a6 00 09 d6 5a 6b
+  ✓ 0x5106 (BMW G450X Level 1) gefunden bei Offset 0x52CBF (Big Endian)
+  ✓ 0x5106 (BMW G450X Level 1) gefunden bei Offset 0x5C843 (Little Endian)
+    Kontext: 1c 3f 71 00 4c 61 7e 67 13 77 01 51 f3 31 70 8b 06 51 f3 71 ff 1f 13 51 f1 34 1c a0 1c 00 09 d1 2b 60
+  ✓ 0x5106 (BMW G450X Level 1) gefunden bei Offset 0x52CC5 (Big Endian)
+  ✓ 0x5106 (BMW G450X Level 1) gefunden bei Offset 0x5C843 (Little Endian)
+    Kontext: 1c 3f 71 00 4c 61 7e 67 13 77 01 51 f3 31 70 8b 06 51 f3 71 ff 1f 13 51 f1 34 1c a0 1c 00 09 d1 2b 60
+  ✓ 0x5106 (BMW G450X Level 1) gefunden bei Offset 0x79179 (Big Endian)
+  ✓ 0x5106 (BMW G450X Level 1) gefunden bei Offset 0x104434 (Little Endian)
+    Kontext: 27 94 2b 00 04 19 04 29 04 49 04 69 04 99 04 d9 06 51 07 57 09 15 0a c5 0c 0e 0d 4b 0e e5 11 c2 14 f4
+  ✓ 0x5106 (BMW G450X Level 1) gefunden bei Offset 0x7917F (Big Endian)
+  ✓ 0x5106 (BMW G450X Level 1) gefunden bei Offset 0x104434 (Little Endian)
+    Kontext: 27 94 2b 00 04 19 04 29 04 49 04 69 04 99 04 d9 06 51 07 57 09 15 0a c5 0c 0e 0d 4b 0e e5 11 c2 14 f4
+  ✓ 0x5106 (BMW G450X Level 1) gefunden bei Offset 0x79493 (Big Endian)
+  ✓ 0x5106 (BMW G450X Level 1) gefunden bei Offset 0x104434 (Little Endian)
+    Kontext: 27 94 2b 00 04 19 04 29 04 49 04 69 04 99 04 d9 06 51 07 57 09 15 0a c5 0c 0e 0d 4b 0e e5 11 c2 14 f4
+  ✓ 0x5106 (BMW G450X Level 1) gefunden bei Offset 0x7949F (Big Endian)
+  ✓ 0x5106 (BMW G450X Level 1) gefunden bei Offset 0x104434 (Little Endian)
+    Kontext: 27 94 2b 00 04 19 04 29 04 49 04 69 04 99 04 d9 06 51 07 57 09 15 0a c5 0c 0e 0d 4b 0e e5 11 c2 14 f4
+  ✓ 0x5106 (BMW G450X Level 1) gefunden bei Offset 0x79523 (Big Endian)
+  ✓ 0x5106 (BMW G450X Level 1) gefunden bei Offset 0x104434 (Little Endian)
+    Kontext: 27 94 2b 00 04 19 04 29 04 49 04 69 04 99 04 d9 06 51 07 57 09 15 0a c5 0c 0e 0d 4b 0e e5 11 c2 14 f4
+  ✓ 0x5106 (BMW G450X Level 1) gefunden bei Offset 0x7952F (Big Endian)
+  ✓ 0x5106 (BMW G450X Level 1) gefunden bei Offset 0x104434 (Little Endian)
+    Kontext: 27 94 2b 00 04 19 04 29 04 49 04 69 04 99 04 d9 06 51 07 57 09 15 0a c5 0c 0e 0d 4b 0e e5 11 c2 14 f4
+  ✓ 0x5106 (BMW G450X Level 1) gefunden bei Offset 0x795C1 (Big Endian)
+  ✓ 0x5106 (BMW G450X Level 1) gefunden bei Offset 0x104434 (Little Endian)
+    Kontext: 27 94 2b 00 04 19 04 29 04 49 04 69 04 99 04 d9 06 51 07 57 09 15 0a c5 0c 0e 0d 4b 0e e5 11 c2 14 f4
+  ✓ 0x5106 (BMW G450X Level 1) gefunden bei Offset 0x795CD (Big Endian)
+  ✓ 0x5106 (BMW G450X Level 1) gefunden bei Offset 0x104434 (Little Endian)
+    Kontext: 27 94 2b 00 04 19 04 29 04 49 04 69 04 99 04 d9 06 51 07 57 09 15 0a c5 0c 0e 0d 4b 0e e5 11 c2 14 f4
+  ✓ 0x5106 (BMW G450X Level 1) gefunden bei Offset 0x79707 (Big Endian)
+  ✓ 0x5106 (BMW G450X Level 1) gefunden bei Offset 0x104434 (Little Endian)
+    Kontext: 27 94 2b 00 04 19 04 29 04 49 04 69 04 99 04 d9 06 51 07 57 09 15 0a c5 0c 0e 0d 4b 0e e5 11 c2 14 f4
+  ✓ 0x5106 (BMW G450X Level 1) gefunden bei Offset 0x79713 (Big Endian)
+  ✓ 0x5106 (BMW G450X Level 1) gefunden bei Offset 0x104434 (Little Endian)
+    Kontext: 27 94 2b 00 04 19 04 29 04 49 04 69 04 99 04 d9 06 51 07 57 09 15 0a c5 0c 0e 0d 4b 0e e5 11 c2 14 f4
+  ✓ 0x5106 (BMW G450X Level 1) gefunden bei Offset 0x104934 (Little Endian)
+    Kontext: 27 94 2b 00 04 19 04 29 04 49 04 69 04 99 04 d9 06 51 07 57 09 15 0a c5 0c 0e 0d 4b 0e e5 11 c2 14 f4
+  ✓ 0x5106 (BMW G450X Level 1) gefunden bei Offset 0x104E34 (Little Endian)
+    Kontext: 27 94 2b 00 04 19 04 29 04 49 04 69 04 99 04 d9 06 51 07 57 09 15 0a c5 0c 0e 0d 4b 0e e5 11 c2 14 f4
+  ✓ 0x5106 (BMW G450X Level 1) gefunden bei Offset 0x108034 (Little Endian)
+    Kontext: 27 94 2b 00 04 19 04 29 04 49 04 69 04 99 04 d9 06 51 07 57 09 15 0a c5 0c 0e 0d 4b 0e e5 11 c2 14 f4
+  ✓ 0x5106 (BMW G450X Level 1) gefunden bei Offset 0x108534 (Little Endian)
+    Kontext: 27 94 2b 00 04 19 04 29 04 49 04 69 04 99 04 d9 06 51 07 57 09 15 0a c5 0c 0e 0d 4b 0e e5 11 c2 14 f4
+  ✓ 0x5106 (BMW G450X Level 1) gefunden bei Offset 0x108A34 (Little Endian)
+    Kontext: 27 94 2b 00 04 19 04 29 04 49 04 69 04 99 04 d9 06 51 07 57 09 15 0a c5 0c 0e 0d 4b 0e e5 11 c2 14 f4
+  ✓ 0x5106 (BMW G450X Level 1) gefunden bei Offset 0x10BC34 (Little Endian)
+    Kontext: 27 94 2b 00 04 19 04 29 04 49 04 69 04 99 04 d9 06 51 07 57 09 15 0a c5 0c 0e 0d 4b 0e e5 11 c2 14 f4
+  ✓ 0x5106 (BMW G450X Level 1) gefunden bei Offset 0x10C134 (Little Endian)
+    Kontext: 27 94 2b 00 04 19 04 29 04 49 04 69 04 99 04 d9 06 51 07 57 09 15 0a c5 0c 0e 0d 4b 0e e5 11 c2 14 f4
+  ✓ 0x5106 (BMW G450X Level 1) gefunden bei Offset 0x10C634 (Little Endian)
+    Kontext: 27 94 2b 00 04 19 04 29 04 49 04 69 04 99 04 d9 06 51 07 57 09 15 0a c5 0c 0e 0d 4b 0e e5 11 c2 14 f4
+  ✓ 0x5106 (BMW G450X Level 1) gefunden bei Offset 0x10F834 (Little Endian)
+    Kontext: 27 94 2b 00 04 19 04 29 04 49 04 69 04 99 04 d9 06 51 07 57 09 15 0a c5 0c 0e 0d 4b 0e e5 11 c2 14 f4
+  ✓ 0x5106 (BMW G450X Level 1) gefunden bei Offset 0x10FD34 (Little Endian)
+    Kontext: 27 94 2b 00 04 19 04 29 04 49 04 69 04 99 04 d9 06 51 07 57 09 15 0a c5 0c 0e 0d 4b 0e e5 11 c2 14 f4
+  ✓ 0x5106 (BMW G450X Level 1) gefunden bei Offset 0x110234 (Little Endian)
+    Kontext: 27 94 2b 00 04 19 04 29 04 49 04 69 04 99 04 d9 06 51 07 57 09 15 0a c5 0c 0e 0d 4b 0e e5 11 c2 14 f4
+  ✓ 0x1923 (BMW G450X Level 2) gefunden bei Offset 0x57DAF (Big Endian)
+  ✓ 0x1923 (BMW G450X Level 2) gefunden bei Offset 0x5CAD5 (Big Endian)
+  ✓ 0x1923 (BMW G450X Level 2) gefunden bei Offset 0x87675 (Big Endian)
+  ✓ 0x1923 (BMW G450X Level 2) gefunden bei Offset 0x87679 (Big Endian)
+  ✓ 0x1923 (BMW G450X Level 2) gefunden bei Offset 0x8767D (Big Endian)
+  ✓ 0x6AD5 (Husqvarna 449 (gefunden via brute force)) gefunden bei Offset 0x29DC4 (Little Endian)
+    Kontext: 05 65 d5 6d 66 e3 66 6c 62 63 42 00 60 23 06 5d d5 6a 62 e3 62 2c 42 00 60 23 05 65 6e ec 62 e3 72 01
+  ✓ 0x6AD5 (Husqvarna 449 (gefunden via brute force)) gefunden bei Offset 0x4A8A4 (Little Endian)
+    Kontext: 60 63 80 56 65 23 66 5d 26 49 d5 6b 60 63 80 57 d5 6a 84 52 66 03 65 6c 66 5c 46 18 d4 67 84 43 65 03
+  ✓ 0x6AD5 (Husqvarna 449 (gefunden via brute force)) gefunden bei Offset 0x4B4BA (Little Endian)
+    Kontext: 66 5d 26 29 d2 6d 32 61 00 35 e6 01 d7 6f 27 60 d5 6a 32 51 40 2f 64 2c 66 6e e7 01 62 63 22 79 42 20
+  ✓ 0x6AD5 (Husqvarna 449 (gefunden via brute force)) gefunden bei Offset 0x63322 (Little Endian)
+    Kontext: 67 10 60 73 80 5a d5 6c d1 89 67 10 60 73 80 5b d5 6a d1 87 67 10 60 73 80 5c d5 67 d1 86 67 10 60 73
+  ✓ 0x6AD5 (Husqvarna 449 (gefunden via brute force)) gefunden bei Offset 0x82094 (Little Endian)
+    Kontext: d5 6e 60 63 80 51 d6 73 62 2c 60 23 05 6c 66 5c d5 6a 60 63 80 52 65 23 65 5c 66 53 76 01 e1 24 36 13
+  ✓ 0x6AD5 (Husqvarna 449 (gefunden via brute force)) gefunden bei Offset 0x82F84 (Little Endian)
+    Kontext: d5 6e 60 63 80 51 d6 74 62 2c 60 23 05 6c 66 5c d5 6a 60 63 80 52 65 23 65 5c 66 53 76 01 e1 24 36 13
+  ✓ 0x6AD5 (Husqvarna 449 (gefunden via brute force)) gefunden bei Offset 0x85F72 (Little Endian)
+    Kontext: 32 13 8b 01 a1 1a 00 09 d6 6b 60 23 05 6c 66 5c d5 6a 60 23 05 64 72 01 e1 24 32 13 8b f4 a1 0d 00 09
+
+=== Suche nach 'Sec' / 'Security' Strings ===
+  'Sec' gefunden bei Offset 0x61C7F
+    Kontext: 07 00 09 65 23 62 53 42 00 60 23 05 4d 65 5d 62 53 65 63 45 00 60 53 01 4d 67 1d 61 63 65 13 45 00 75 02
+  'Sec' gefunden bei Offset 0x625A5
+    Kontext: 6c 62 2c 7f 18 6e f6 02 7b 00 00 4f 22 7f f0 62 53 65 63 66 23 66 6e 46 00 60 63 01 4d 61 1f 62 2e 66 23
+  'Sec' gefunden bei Offset 0x64EF9
+    Kontext: 80 43 2b 00 09 e4 29 64 4e d3 7c 43 4b 65 03 66 53 65 63 62 5d e1 f8 42 1c d5 79 60 23 80 53 62 6d 01 00
+  'Sec' gefunden bei Offset 0x64F53
+    Kontext: 6a 43 2b 00 09 e4 2e 64 4e d3 65 43 4b 65 03 66 53 65 63 62 5d e1 f8 42 1c d5 62 60 23 80 53 62 6d 01 00
+  'Sec' gefunden bei Offset 0x64FA9
+    Kontext: 54 43 2b 00 09 e4 04 64 4e d3 50 43 4b 65 03 66 53 65 63 62 5d e1 f8 42 1c d5 4d 60 23 80 53 62 6d 01 00
+  'Sec' gefunden bei Offset 0x65053
+    Kontext: 2a 43 2b 00 09 e4 2f 64 4e d3 25 43 4b 65 03 66 53 65 63 62 5d e1 f8 42 1c d5 22 60 23 80 53 62 6d 01 00
+  'Sec' gefunden bei Offset 0x6513B
+    Kontext: 6e 26 68 89 16 e4 2c 64 4e d3 b4 43 4b 65 03 66 53 65 63 62 5d e1 f8 42 1c d5 ac 60 23 80 53 62 6d 01 00
+  'Sec' gefunden bei Offset 0x65191
+    Kontext: 6e 26 68 89 16 e4 2d 64 4e d3 9f 43 4b 65 03 66 53 65 63 62 5d e1 f8 42 1c d5 97 60 23 80 53 62 6d 01 00
+  'Sec' gefunden bei Offset 0x651DB
+    Kontext: 6e 26 68 89 16 e4 2a 64 4e d3 8c 43 4b 65 03 66 53 65 63 62 5d e1 f8 42 1c d5 84 60 23 80 53 62 6d 01 00
+  'Sec' gefunden bei Offset 0x6526D
+    Kontext: 6e 26 68 89 16 e4 0a 64 4e d3 68 43 4b 65 03 66 53 65 63 62 5d e1 f8 42 1c d5 60 60 23 80 53 62 6d 01 00
+  'Sec' gefunden bei Offset 0x652AB
+    Kontext: 59 43 2b 00 09 e4 0b 64 4e d3 58 43 4b 65 03 66 53 65 63 62 5d e1 f8 42 1c d5 50 60 23 80 53 62 6d 01 00
+  'Sec' gefunden bei Offset 0x65319
+    Kontext: 3d 43 2b 00 09 e4 08 64 4e d3 3d 43 4b 65 03 66 53 65 63 62 5d e1 f8 42 1c d5 35 60 23 80 53 62 6d 01 00
+  'Sec' gefunden bei Offset 0x6538D
+    Kontext: 6e 26 68 89 16 e4 06 64 4e d3 20 43 4b 65 03 66 53 65 63 62 5d e1 f8 42 1c d5 18 60 23 80 53 62 6d 01 00
+  'Sec' gefunden bei Offset 0x6545F
+    Kontext: 6e 26 68 89 16 e4 05 64 4e d3 ba 43 4b 65 03 66 53 65 63 62 5d e1 f8 42 1c d5 b7 60 23 80 53 62 6d 01 00
+  'Sec' gefunden bei Offset 0x6549D
+    Kontext: af 43 2b 00 09 e4 0a 64 4e d3 ab 43 4b 65 03 66 53 65 63 62 5d e1 f8 42 1c d5 a8 60 23 80 53 62 6d 01 00
+  'Sec' gefunden bei Offset 0x654E3
+    Kontext: 9e 43 2b 00 09 e4 10 64 4e d3 99 43 4b 65 03 66 53 65 63 62 5d e1 f8 42 1c d5 96 60 23 80 53 62 6d 01 00
+  'Sec' gefunden bei Offset 0x657B3
+    Kontext: 7c ff f8 3c 7b e4 01 64 4e d3 c6 43 4b 65 03 66 53 65 63 62 5d e1 f8 42 1c d5 c3 60 23 80 53 62 6d 01 00
+  'Sec' gefunden bei Offset 0x6B9A1
+    Kontext: 00 00 ff 67 13 d1 18 21 70 7f 0c 00 6b 62 43 64 53 65 63 d3 15 23 50 d3 15 23 21 d3 15 23 41 00 6b 00 00
+  'Sec' gefunden bei Offset 0x87649
+    Kontext: 50 63 23 d1 1f 21 30 d3 1f 23 40 00 6b 62 43 64 53 65 63 d3 1d 23 20 d3 1d 23 40 d3 1d 23 50 00 6b 62 43
+  'Sec' gefunden bei Offset 0x8765D
+    Kontext: 1d 23 20 d3 1d 23 40 d3 1d 23 50 00 6b 62 43 64 53 65 63 d3 1b 23 20 d3 1b 23 40 d3 1b 23 50 00 6b 62 43
+  'Sec' gefunden bei Offset 0x87671
+    Kontext: 1b 23 20 d3 1b 23 40 d3 1b 23 50 00 6b 62 43 64 53 65 63 d3 19 23 20 d3 19 23 40 d3 19 23 50 00 6b 00 00
+  'Sec' gefunden bei Offset 0x876EB
+    Kontext: 4a ff f8 3d 43 ff f8 3d 47 ff f8 3d 4b 62 43 64 53 65 63 d3 10 23 20 d3 10 23 40 d3 10 23 50 00 6b 61 63
+  'sec' gefunden bei Offset 0x2DAD7
+    Kontext: 02 8b 01 a0 b1 00 09 d1 85 66 23 66 6c e7 0a 60 73 65 63 45 80 64 13 74 01 60 53 06 4c 65 6c 66 5c 26 68
+  'sec' gefunden bei Offset 0x2DB97
+    Kontext: 73 64 53 44 80 60 43 01 64 d4 54 66 23 66 6c 60 73 65 63 45 80 66 43 76 01 ee 01 60 53 06 e4 66 2c e5 01
+  'sec' gefunden bei Offset 0x53679
+    Kontext: 67 e5 01 65 5e 25 58 8b 6b d1 75 66 6c e7 05 60 73 65 63 45 80 64 13 74 03 60 53 06 4c 66 6e 26 68 8b 5e
+  'sec' gefunden bei Offset 0x64F7B
+    Kontext: 5f 60 23 80 64 d3 5e 43 2b 00 09 d1 60 67 11 66 73 65 63 62 5d e1 f8 42 1c d5 58 60 23 80 53 62 6d 01 00
+  'sec' gefunden bei Offset 0x6EE37
+    Kontext: 6b 4f 22 7f f4 d1 7c 67 11 66 73 d1 7c 67 11 62 73 65 63 62 2f 65 5f 66 53 36 28 62 6d 64 2f 64 4f d3 77
+
+=== Suche nach charakteristischen 16-bit Werten ===
+  Top 20 häufigste 16-bit Werte (0x1000-0xFFFF, außer 0xFFFF):
+    0xF8FF: 14808x gefunden (erste Offsets: 0x2113C, 0x21140, 0x213C8, 0x213CC, 0x213D4)
+    0x1027: 5676x gefunden (erste Offsets: 0x211DE, 0x21230, 0x21236, 0x212B4, 0x212BA)
+    0x1067: 5537x gefunden (erste Offsets: 0x2105A, 0x21090, 0x211D8, 0x212EE, 0x212F8)
+    0xF401: 4415x gefunden (erste Offsets: 0x3117E, 0x31246, 0x794CE, 0x795BE, 0xE005E)
+    0x1167: 4372x gefunden (erste Offsets: 0x2118E, 0x211AC, 0x211B8, 0x211C4, 0x211CE)
+    0x2822: 4368x gefunden (erste Offsets: 0x20034, 0x21060, 0x21096, 0x2117A, 0x211A6)
+    0x4B43: 4321x gefunden (erste Offsets: 0x2000E, 0x20012, 0x2001E, 0x20022, 0x2002C)
+    0x2E62: 4262x gefunden (erste Offsets: 0x20032, 0x2105E, 0x21094, 0x21178, 0x211A4)
+    0x1062: 3007x gefunden (erste Offsets: 0x21176, 0x21250, 0x2125E, 0x21276, 0x21298)
+    0x5A00: 2955x gefunden (erste Offsets: 0x3AC9A, 0x3B2BE, 0x3BF56, 0x3D27E, 0x3E25E)
+    0x6E00: 2557x gefunden (erste Offsets: 0x44E16, 0x45066, 0x45D1E, 0x4C894, 0x549EE)
+    0x2360: 2231x gefunden (erste Offsets: 0x21B92, 0x21D90, 0x21DA4, 0x227FA, 0x232E0)
+    0x7704: 2144x gefunden (erste Offsets: 0x4F2A6, 0x6573E, 0x74496, 0x77C86, 0x780A6)
+    0x1127: 1992x gefunden (erste Offsets: 0x21194, 0x211CA, 0x211D4, 0x211F8, 0x2120E)
+    0x7361: 1524x gefunden (erste Offsets: 0x21190, 0x211C6, 0x211D0, 0x211DA, 0x211F4)
+    0x2121: 1483x gefunden (erste Offsets: 0x21172, 0x21186, 0x2121C, 0x2122A, 0x21244)
+    0x7C62: 1419x gefunden (erste Offsets: 0x212F0, 0x21336, 0x214D4, 0x22FFC, 0x2300C)
+    0x6B00: 1370x gefunden (erste Offsets: 0x20050, 0x21248, 0x215B2, 0x217FE, 0x2198C)
+    0x2361: 1326x gefunden (erste Offsets: 0x20026, 0x21214, 0x21222, 0x2123C, 0x2134A)
+    0x7D61: 1176x gefunden (erste Offsets: 0x212C4, 0x212DA, 0x215EC, 0x21630, 0x2165C)
+
+=== ECU-Identifier ===
+  'KM270' gefunden bei Offset 0x13FFD6
+    Kontext (ASCII): ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿKM270EU15E0301  760.41.031.000   AT  
+  '760.41.031' gefunden bei Offset 0x13FFE6
+    Kontext (ASCII): ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿKM270EU15E0301  760.41.031.000   AT   ªª/Â
